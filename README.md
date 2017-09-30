@@ -9,5 +9,10 @@ As a learning exercise, a few things were added:
 - one player vs. AI
 - instructions
 
+Screenshots:
+
+![Main Menu](https://github.com/miguelsem/SimplePong/blob/master/mainmenu.png)
+![Ingame](https://github.com/miguelsem/SimplePong/blob/master/ingame.png)
+
 Godot Engine is under MIT License
 to https://godotengine.org/license
